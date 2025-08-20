@@ -1,4 +1,4 @@
-Hi these are the instruction to run the code
+Hi, these are the instruction to run the code, make sure to install python 3.12(recommended), and make sure to check the box "Add Python 3.12 to PATH" during installation.
 
 # Instructions to run the code
 1. Clone the repository:
