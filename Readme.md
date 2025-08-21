@@ -13,6 +13,6 @@ Hi, these are the instruction to run the code, make sure to install python 3.12(
 
 4. Script will ask you for the Query, enter the query you want to search for.
 
-5. Accept the cookies manually in the browser.
+5. Accept the cookies manually in the browser if they appear.
 
 6. The script will then scrape the job listings from the VDAB website and save them to a CSV file named `vdab_jobs.csv`.
