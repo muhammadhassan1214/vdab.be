@@ -16,3 +16,5 @@ Hi, these are the instruction to run the code, make sure to install python 3.12(
 5. Accept the cookies manually in the browser if they appear.
 
 6. The script will then scrape the job listings from the VDAB website and save them to a CSV file named `vdab_jobs.csv`.
+
+I received $77 for this order after fees, and the payment will be held for 14 days. To avoid those charges for both of us, would it be okay if I sent you a WISE invoice directly? We could do the project for a clean $80.
